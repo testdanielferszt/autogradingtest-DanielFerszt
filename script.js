@@ -91,7 +91,7 @@ function addLetter(letter,color){
 
 
 function sum(a,b){
-  return a+b
+  return a+b+1
 }
 function subs(a,b){
   return a+b
